@@ -1,10 +1,3 @@
-# RAG chatbot powered by 🔗 Langchain, OpenAI, Google Generative AI and Hugging Face 🤗
-
-<div align="center">
-  <img src="https://github.com/AlaGrine/RAG_chatabot_with_Langchain/blob/main/data/docs/RAG_architecture.png" >
-  <figcaption>RAG architecture with Langchain components.</figcaption>
-</div>
-
 ## Project Overview <a name="overview"></a>
 
 Although Large Language Models (LLMs) are powerful and capable of generating creative content, they can produce outdated or incorrect information as they are trained on static data. To overcome this limitation, Retrieval Augmented Generation (RAG) systems can be used to connect the LLM to external data and obtain more reliable answers.
@@ -34,6 +27,4 @@ To run the app locally:
 7. Create or load a Chroma vectorstore.
 8. Chat with your documents: ask questions and get 🤖 AI answers.
 
-## Blog post <a name="blog_post"></a>
 
-I wrote a blog post about this project. You can find it [here](https://medium.com/@alaeddine.grine/rag-chatbot-powered-by-langchain-openai-google-generative-ai-and-hugging-face-apis-6a9b9d7d59db)
